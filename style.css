@@ -1,0 +1,61 @@
+body {
+  background-color: #f1f2f4;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.dates {
+  font-size: 12px;
+}
+
+.nav-link {
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.text {
+  font-size: 18px;
+}
+
+.fa-circle {
+  font-size: 70px;
+  color: #dcd7d7;
+  margin-left: 5%;
+}
+
+.fa-search {
+  color: white;
+}
+
+.form-control {
+  border: none;
+}
+
+.btn-outline-success {
+  border: none;
+}
+
+.col-sm-6 {
+  background-color: white;
+  margin-top: 20px;
+  padding: 20px 30px;
+}
+
+.col-sm-4 {
+  margin-top: 20px;
+}
+
+.img-thumbnail {
+  width: 75%;
+}
+
+.img-thumbnail-2 {
+  width: 65%;
+  padding-top: 20px;
+  border-radius: 2px;
+}
+
+.navbar-nav {
+  margin-left: 3%;
+}
+
+
